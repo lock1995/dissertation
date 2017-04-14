@@ -1,0 +1,212 @@
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<STYLE>
+BR.page { page-break-after: always }
+</STYLE>
+</head><body><center><h1>美食网站的论文第8页</h1></center>
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">黄冈职业技术学院</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">else{</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">demo.scrollLeft++</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">}</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">}</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">var MyMar=setInterval(Marquee,speed)</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">demo.onmouseover=function() {clearInterval(MyMar)}</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">demo.onmouseout=function() {MyMar=setInterval(Marquee,speed)} &lt;/SCRIPT&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">3.3.3 网站页尾的设计</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">网站的页尾主要是由一些友情链接和一些联系方式组成。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">我的页尾为：</p>
+                
+            
+                
+                    
+                        <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">
+                            <img src="http://www.tzpengju.com/img.php?cb3aa84069eae009581bec3b?pn=22&amp;x=0&amp;y=7&amp;raww=547&amp;rawh=98&amp;o=png_6_0_0_171_540_606_160_892.979_1262.879&amp;type=pic&amp;aimh=42.9981718464351&amp;md5sum=ab0b25d1502ead5a66365495d16ef157&amp;sign=a99f432f32&amp;zoom=&amp;png=525924-537939&amp;jpg=0-0">
+                        </p>
+                    
+                    
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">网站页尾的代码为：</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;div id="bottom"&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;div id="banquan"&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;ul&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;li&gt;关于我们|&lt;/li&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;li&gt;联系方式|&lt;/li&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;li&gt;免责条款|&lt;/li&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;li&gt;我要开店|&lt;/li&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;li&gt;旅易通|&lt;/li&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;li&gt;美食总机|&lt;/li&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;li&gt;美食搜索|&lt;/li&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;/ul&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;/div&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;div id="banquan2"&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">22</p>
+                
+            
+            
+            
+
+            
+        
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">黄冈职业技术学院</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;ul&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;li&gt; 地&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 址：黄冈职业技术学院&lt;/li&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;li&gt;联&amp;nbsp; 系&amp;nbsp; 人：杨小姐&lt;/p&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;li&gt;联系电话：15098016715&lt;/li&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;li&gt;油&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 箱：huanggang@.126.com&lt;/li&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;/ul&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;/div&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">3.4本章小结</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">本章主要是介绍《美食天下》网站的制作过程。在介绍网站的制作过程中，我并没有详细的介绍网站制作的每一个小小的步骤。而是主要介绍了网站布局的基本概念、网站布局的方法、网站首页的设计。其中以图文结合的方法介绍了《美食天下》首页的制作，把首页的代码和效果图一同展示了出来。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">23</p>
+                
+            
+            
+            
+
+            
+        
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">黄冈职业技术学院</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">24</p>
+                
+            
+            
+            
+
+            
+        </body></html>

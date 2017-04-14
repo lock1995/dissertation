@@ -1,0 +1,208 @@
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<STYLE>
+BR.page { page-break-after: always }
+</STYLE>
+</head><body><center><h1>毕业论文(基于div+css的tasty美食网站的界面设计)第4页</h1></center>
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">浙江经贸职业技术学院毕业论文(设计)</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">图3.1 图片搜集截图</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">有关介绍美食网站的文字素材复制并保存在meishi.txt中，文字资料如图</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">3.2所示。</p>
+                
+            
+                
+                    
+                        <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">
+                            <img src="http://www.mr118.net/img.php?05841039a45177232f60a2fa?pn=10&amp;x=0&amp;y=1275&amp;raww=596&amp;rawh=424&amp;o=png_6_0_0_285_563_388_275_892.979_1262.879&amp;type=pic&amp;aimh=170.73825503355704&amp;md5sum=1531e8d6b8f4194bf5b4bbfa8da93d85&amp;sign=7dfb9fe72a&amp;zoom=&amp;png=366239-441450&amp;jpg=0-0">
+                        </p>
+                    
+                    
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">图3.2 文字资料截图</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">创建页面，做好首页及子页的命名，为样式、脚本分类创建文件夹。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">结合photoshop软件制作效果图，利用photoshop软件实现某些元素的裁剪及取材。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">3.2.1美食网站类主题与版面的分析</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">在美食网站整体版面布局中，需要更多运用css样式、HTML代码和div+css布局使网站清爽简洁。需要达到的要求：</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">（1）色彩轻快，版面清爽，搭配合理</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">由于是美食类网站，所以版面不宜生硬死板，不宜过于花哨缭乱，但也要注 第  7  页</p>
+                
+            
+                
+                    
+                        <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">
+                            <img src="http://www.mr118.net/img.php?05841039a45177232f60a2fa?pn=10&amp;x=0&amp;y=1704&amp;raww=1125&amp;rawh=697&amp;o=png_6_0_0_209_133_508_315_892.979_1262.879&amp;type=pic&amp;aimh=148.69333333333333&amp;md5sum=1531e8d6b8f4194bf5b4bbfa8da93d85&amp;sign=7dfb9fe72a&amp;zoom=&amp;png=366239-441450&amp;jpg=0-0">
+                        </p>
+                    
+                    
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+            
+            
+
+            
+        
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">浙江经贸职业技术学院毕业论文(设计)</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">意整体格局。采用明亮清晰色彩、板块布局工整。主题风格偏向清爽整洁，网页主要以黑色为背景，灰色为辅。文字颜色以白色为主。采用12像素的正文宋体。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">（2）版面合理，页面链接无误。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">为避免布局过于混乱，各个div之间的位置间距要控制得当，代码的正确应用，HTML与css的简洁书写，使之有更丰富的动画效果，此外也要保证页面间的链接完整。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">3.2.2美食网站效果图的设计与制作</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">美食网站效果图由网上模板下载所得，在photoshop软件中打开，首页模板效果如图3.3所示。</p>
+                
+            
+                
+                    
+                        <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">
+                            <img src="http://www.mr118.net/img.php?05841039a45177232f60a2fa?pn=11&amp;x=0&amp;y=1275&amp;raww=1160&amp;rawh=673&amp;o=png_6_0_0_153_450_621_360_892.979_1262.879&amp;type=pic&amp;aimh=139.24137931034483&amp;md5sum=1531e8d6b8f4194bf5b4bbfa8da93d85&amp;sign=7dfb9fe72a&amp;zoom=&amp;png=441451-662720&amp;jpg=0-0">
+                        </p>
+                    
+                    
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">图3.3首页效果图</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">banner部分不做修整，导航部分主要是后面在dreamweaver中修改文字，只把内容信息的右边部分全部改为图片模式，如图3.4所示。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">第  8  页</p>
+                
+            
+            
+            
+
+            
+        
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">浙江经贸职业技术学院毕业论文(设计)</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">图3.4首页效果图</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">子页整体布局继承首页布局，只在内容信息部分异于首页。子页模版效果图如图3.5所示。</p>
+                
+            
+                
+                    
+                        <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">
+                            <img src="http://www.mr118.net/img.php?05841039a45177232f60a2fa?pn=12&amp;x=0&amp;y=1275&amp;raww=1268&amp;rawh=636&amp;o=png_6_0_0_148_657_638_320_892.979_1262.879&amp;type=pic&amp;aimh=120.37854889589906&amp;md5sum=1531e8d6b8f4194bf5b4bbfa8da93d85&amp;sign=7dfb9fe72a&amp;zoom=&amp;png=662721-1067718&amp;jpg=0-0">
+                        </p>
+                    
+                    
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">图3.5子页效果图</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">子页布局不做修改。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">3.2.3界面元素的制作过程</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">界面元素的制作包括网站中用到的所有图片，如导航图、logo图等。把所有图片依次使用photoshop进行修整、取材。背景需要透明的图片保存为*.png格 第  9  页</p>
+                
+            
+                
+                    
+                        <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">
+                            <img src="http://www.mr118.net/img.php?05841039a45177232f60a2fa?pn=12&amp;x=0&amp;y=1916&amp;raww=915&amp;rawh=625&amp;o=png_6_0_0_162_132_603_412_892.979_1262.879&amp;type=pic&amp;aimh=163.9344262295082&amp;md5sum=1531e8d6b8f4194bf5b4bbfa8da93d85&amp;sign=7dfb9fe72a&amp;zoom=&amp;png=662721-1067718&amp;jpg=0-0">
+                        </p>
+                    
+                    
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+            
+            
+
+            
+        </body></html>

@@ -1,0 +1,230 @@
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<STYLE>
+BR.page { page-break-after: always }
+</STYLE>
+</head><body><center><h1>毕业论文(基于div+css的tasty美食网站的界面设计)第5页</h1></center>
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">浙江经贸职业技术学院毕业论文(设计)</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">式，其他图片匀保存为*.jpg。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">由于本网站导航栏除了几个数字图片外没再放其他图片，所以只需在dreamweaver中布局后加入文字即可。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">3.2.4首页界面的制作过程</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">首先建立站点，站点下新建images、css、js、data四个文件夹，文字搜集的素材归于meishi.txt中，图片素材的搜集与自己设计处理过的图片都统一放在images文件夹内。另外控制样式的style和slimbox两个文件放入css文件夹内，init、jquery.localscroll-min、jquery.min、jquery.scrollTo-min和slimbox2五个js文件放入js文件夹内，数据库文件放入data文件夹中。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">创建首页，初建header、main_wrapper、footer上中下三大版块，其中在header中再插入site_title，输入网站标题，如图3.6所示。</p>
+                
+            
+                
+                    
+                        <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">
+                            <img src="http://www.mr118.net/img.php?05841039a45177232f60a2fa?pn=13&amp;x=0&amp;y=1275&amp;raww=713&amp;rawh=353&amp;o=png_6_0_0_214_518_499_248_892.979_1262.879&amp;type=pic&amp;aimh=118.82187938288921&amp;md5sum=1531e8d6b8f4194bf5b4bbfa8da93d85&amp;sign=7dfb9fe72a&amp;zoom=&amp;png=1067719-1089023&amp;jpg=0-0">
+                        </p>
+                    
+                    
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">图3.6 site_title效果图</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">中间区块分为左右两个版块，依次命名为home_box left、home_box right。左边为导航区块，右边为网站展示图区块。导航区块利用div+css平均布局为四块，每块中都使用a链接加入相应图片，输入导航文字，导航文字大小设置为h2，颜色为白色并给导航文字设置链接，去下划线，点击导航文字进入相应界面；右边部分利用div+css平均分为六个区块，每个区块都使用a链接加入展示图，点击任何一张展示图都可进行放大显示。首页界面中内容信息部分的效果如图3.7所示。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">页 第  10</p>
+                
+            
+            
+            
+
+            
+        
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">浙江经贸职业技术学院毕业论文(设计)</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">图3.7首页内容效果图</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">导航区块中的效果为鼠标移到导航上时，当前鼠标所在的导航项目栏的背景色加深，移开后又恢复。导航区块的代码如下：</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;div class="home_box left"&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;div class="row1 box box1"&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;div class="box_with_padding"&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;h2&gt;&lt;a href="#about"&gt;About&lt;/a&gt;&lt;/h2&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">Food is not just a simple taste experience, but also a spirit of enjoyment. &lt;/div&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;/div&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;div class="row1 box2"&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;div class="box_with_padding"&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;h2&gt;&lt;a href="#services"&gt;Chinese Food&lt;/a&gt;&lt;/h2&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">The Chinese diet etiquette varies according to the nature and purpose of the feast. &lt;/div&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;/div&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;div class="row1 box3"&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;div class="box_with_padding"&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">页</p>
+                
+            
+                
+                    
+                        <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">
+                            <img src="http://www.mr118.net/img.php?05841039a45177232f60a2fa?pn=14&amp;x=0&amp;y=1275&amp;raww=799&amp;rawh=477&amp;o=png_6_0_0_148_135_641_382_892.979_1262.879&amp;type=pic&amp;aimh=143.279098873592&amp;md5sum=1531e8d6b8f4194bf5b4bbfa8da93d85&amp;sign=7dfb9fe72a&amp;zoom=&amp;png=1089024-1246582&amp;jpg=0-0">
+                        </p>
+                    
+                    
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">第  11</p>
+                
+            
+            
+            
+
+            
+        
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">浙江经贸职业技术学院毕业论文(设计)</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;h2&gt;&lt;a href="#testimonial"&gt;Western Food&lt;/a&gt;&lt;/h2&gt;                Western-style food is referred to as the western style food, nutrition as the core. &lt;/div&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;/div&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;div class="row1 box4"&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;div class="box_with_padding"&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;h2&gt;&lt;a href="#contact"&gt;Contact&lt;/a&gt;&lt;/h2&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">Any opinions or suggestions, please contact us. &lt;/div&gt;      &lt;/div&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;/div&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">导航区块具体效果图如图3.8所示。</p>
+                
+            
+                
+                    
+                        <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">
+                            <img src="http://www.mr118.net/img.php?05841039a45177232f60a2fa?pn=15&amp;x=0&amp;y=1275&amp;raww=452&amp;rawh=555&amp;o=png_6_0_0_298_521_331_406_892.979_1262.879&amp;type=pic&amp;aimh=294.69026548672565&amp;md5sum=1531e8d6b8f4194bf5b4bbfa8da93d85&amp;sign=7dfb9fe72a&amp;zoom=&amp;png=1246583-1343122&amp;jpg=0-0">
+                        </p>
+                    
+                    
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">图3.8 导航效果图</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">首页界面内容信息部分展示图代码如下：</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;div class="row2" id="home_gallery"&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;a href="images/gallery/01-l.jpg" rel="lightbox[home_gallery]" class="left"&gt;&lt;img src="images/gallery/01.jpg" alt="image 1" /&gt;&lt;/a&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;a href="images/gallery/02-l.jpg" rel="lightbox[home_gallery]"   页 第  12</p>
+                
+            
+            
+            
+
+            
+        </body></html>

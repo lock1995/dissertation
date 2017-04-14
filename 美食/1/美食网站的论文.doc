@@ -1,0 +1,124 @@
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<STYLE>
+BR.page { page-break-after: always }
+</STYLE>
+</head><body><center><h1>美食网站的论文</h1></center>
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">毕业设计</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">题目美食天下》网站的建设</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">学生姓名：       xx            学    号：    201111111</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">专    业：   计算机应用技术        班    级：    计应200901班        指导教师：     xx</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">完成日期：    2011年10月23日</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    
+                        <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">
+                            <img src="http://www.tzpengju.com/img.php?cb3aa84069eae009581bec3b?pn=1&amp;x=0&amp;y=50&amp;raww=266&amp;rawh=42&amp;o=png_6_0_0_273_156_412_67_892.979_1262.879&amp;type=pic&amp;aimh=37.89473684210526&amp;md5sum=ab0b25d1502ead5a66365495d16ef157&amp;sign=a99f432f32&amp;zoom=&amp;png=0-5095&amp;jpg=0-0">
+                        </p>
+                    
+                    
+                
+            
+            
+            
+
+            
+        
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">黄冈职业技术学院</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">摘要</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">随着网络技术与信息技术的发展，因特网迅速成长，Internet上发布信息主要是通过网站来实现的，获取信息也是要在Internet“海洋”中按照一定的检索方式将所需要的信息从网站上下载下来。随着时代的发展，网站建设越来越接近于一门艺术而不仅仅是一项技术。网页的艺术设计，日益被网站建设者所注重。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">本文以《美食天下—食谱大全》网站的建设为例，介绍了网页设计制作的基本方法和相关经验。指出网页设计制作水平式对计算机操作知识中综合知识水平的检验。要提高其设计，制作水平必须从栏目安排、整体布局、文本与图片编辑、网页链接技术到Html语言设置、网页效果测试，乃至软件应用选择方面都要从整体上把握，从环节上努力，观念上更新，在方法上创新，将换位思考模式引入网页设计制作中，从而形成一种以效果最佳为目标的综合性技能。并再实践中积累经验、完善规程、探索技巧、获得成功。 关键字：制作、建设、解析</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">2</p>
+                
+            
+            
+            
+
+            
+        
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">黄冈职业技术学院</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">Abstract</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">With the development of network technology and information technology, the Internet growing rapidly, Internet published information is mainly achieved through the website, access to information is to be Internet" ocean" according to certain retrieval way information needed to be downloaded from the web site. With the development of the times, the website construction is getting more and more close to an art is not just a technology. Webpage art design, site builders are increasingly attention.</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">In this paper the world -" food recipes" website construction as an example, introduces the webpage design basic methods and related experience. Pointed out that the webpage design level of knowledge in computer operation knowledge test. To improve the design, production levels must be from the column arrangement, the overall layout, text and picture editing, webpage link technology to the Html language settings, webpage test results, and the selected software applications have to grasp the overall, from links to update, idea, method innovation, the transposition thinking mode into the webpage the production design, thus forming a kind of to best effect as the goal of comprehensive skills. And practice experience, perfect regulations, exploration, success skills.</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">Keywords: manufacturing、construction、 analysis</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">3</p>
+                
+            
+            
+            
+
+            
+        </body></html>

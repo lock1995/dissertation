@@ -1,0 +1,165 @@
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<STYLE>
+BR.page { page-break-after: always }
+</STYLE>
+</head><body><center><h1>毕业论文(基于div+css的tasty美食网站的界面设计)第8页</h1></center>
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">浙江经贸职业技术学院毕业论文(设计)</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;/a&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;/div&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">联系我们界面的效果图如图3.16所示。</p>
+                
+            
+                
+                    
+                        <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">
+                            <img src="http://www.mr118.net/img.php?05841039a45177232f60a2fa?pn=22&amp;x=0&amp;y=1275&amp;raww=1085&amp;rawh=643&amp;o=png_6_0_0_148_236_659_391_892.979_1262.879&amp;type=pic&amp;aimh=142.2304147465438&amp;md5sum=1531e8d6b8f4194bf5b4bbfa8da93d85&amp;sign=7dfb9fe72a&amp;zoom=&amp;png=2860142-3198144&amp;jpg=0-0">
+                        </p>
+                    
+                    
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">图3.16联系我们界面</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">点击地图进入百度地图搜索查询界面。百度地图界面如图3.17所示。</p>
+                
+            
+                
+                    
+                        <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">
+                            <img src="http://www.mr118.net/img.php?05841039a45177232f60a2fa?pn=22&amp;x=0&amp;y=1923&amp;raww=1438&amp;rawh=757&amp;o=png_6_0_0_149_703_628_346_892.979_1262.879&amp;type=pic&amp;aimh=126.3421418636996&amp;md5sum=1531e8d6b8f4194bf5b4bbfa8da93d85&amp;sign=7dfb9fe72a&amp;zoom=&amp;png=2860142-3198144&amp;jpg=0-0">
+                        </p>
+                    
+                    
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">图3.17百度地图界面</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">页 第  19</p>
+                
+            
+            
+            
+
+            
+        
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">浙江经贸职业技术学院毕业论文(设计)</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">3.3 制作中遇到的问题和解决方法</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">（1）图片的保存。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">此问题出现在网站导航区块中的图片制作方面，在photoshop中做完图片，直接保存为jpg格式，出来的图片背景是白色的，而需要的图片背景是透明的，后来百度发现，保存的需要是png格式，出来的图片背景才会是透明的。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">（2）div浮动。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">在相册界面中排版问题困扰了很久，自己想要的效果是四张图片并排排列，但是写完代码后图片总是或斜或竖，后来经过反复多次调整代码发现：把四张图片分为两个部分，再在各个部分中再分为两个子部分，每个部分中的左边部分设置float：left，右边部分设置float：right即可实现。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">（3）脚本的逻辑书写。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">最难的就是脚本的书写，有些比较难以理解，而且最容易出差错。有些在页面打开时就要加载，需要在body里输代码。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">（4）网站色彩搭配。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">本人最不擅长的就是色彩搭配，刚开始想得很完美，但做出来的效果图总是怪怪的，多次失败后，索性就减少色彩的使用，最终网站以黑色为主，灰色为辅，文字颜色都为白色。整体效果图出来后，总体感觉清晰明了、简单大气。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">（5）路径的设置。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">刚开始根本没注意到路径的设置，做完网页后在浏览时发现有些内容总是不对，这才发现那些内容设置成了绝对路径。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">4  网站的测试</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">编码完成后，就要对源程序进行测试。软件测试的目的在于争取在第一时间发现程序中的错误，以便于及时纠错，增加软件可靠性。它在整个系统设计实施过程中占有相当的分量。测试是软件开发时期的最后一个阶段，也是软件质量保证中至关重要的一个环节。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">测试的目的是为了尽可能的发现程序中存在的错误，其任务就是消除网站故障，保证程序的可靠运行，最终把一个高质量的网站系统交给用户使用。一般来  页 第  20</p>
+                
+            
+            
+            
+
+            
+        
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">浙江经贸职业技术学院毕业论文(设计)</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">说在每个模块完成之后就要对它作必要的测试，这种测试被称为单元测试，模块的测试者也就是编写者。编码和单元测试属于网站生命周期的同一阶段。这个阶段结束之后，对网站系统还应该进行各种综合测试，这是网站生命周期的另一个独立的阶段，由专门的测试人员承担。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">在网页中的测试阶段主要是对网站进行浏览器兼容性测试。在网页测试的阶段我分别安装了IE8、火狐、搜狗、等浏览器，并且进行了逐个测试。在多次实践中或多或少都遇到了不可调节的DIV浮动问题，但是最后还是在老师的指导和书籍查阅后，嵌入表格完成了页面设计，使页面在各个浏览器中显示正常。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">页 第  21</p>
+                
+            
+            
+            
+
+            
+        </body></html>

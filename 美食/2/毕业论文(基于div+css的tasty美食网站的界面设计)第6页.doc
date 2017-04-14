@@ -1,0 +1,215 @@
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<STYLE>
+BR.page { page-break-after: always }
+</STYLE>
+</head><body><center><h1>毕业论文(基于div+css的tasty美食网站的界面设计)第6页</h1></center>
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">浙江经贸职业技术学院毕业论文(设计)</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">class="left"&gt;&lt;img src="images/gallery/02.jpg" alt="image 2" /&gt;&lt;/a&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;a href="images/gallery/03-l.jpg" rel="lightbox[home_gallery]" class="left"&gt;&lt;img src="images/gallery/03.jpg" alt="image 3" /&gt;&lt;/a&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;a href="images/gallery/04-l.jpg" rel="lightbox[home_gallery]" class="left"&gt;&lt;img src="images/gallery/04.jpg" alt="image 4" /&gt;&lt;/a&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;a href="images/gallery/05-l.jpg" rel="lightbox[home_gallery]" class="left"&gt;&lt;img src="images/gallery/05.jpg" alt="image 5" /&gt;&lt;/a&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;a href="images/gallery/06-l.jpg" rel="lightbox[home_gallery]" class="left"&gt;&lt;img src="images/gallery/06.jpg" alt="image 6" /&gt;&lt;/a&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;a href="images/gallery/07-l.jpg" rel="lightbox[home_gallery]" class="left"&gt;&lt;img src="images/gallery/07.jpg" alt="image 6" /&gt;&lt;/a&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;a href="images/gallery/08-l.jpg" rel="lightbox[home_gallery]" class="left"&gt;&lt;img src="images/gallery/08.jpg" alt="image 6" /&gt;&lt;/a&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;/div&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">首页界面展示图放大后，点击“PREV”或图片的左半部分可返回上一张展示图的放大界面，点击“NEXT”或图片的右半部分可进入下一张展示图的放大界面，八张展示图可循环显示，点击图片右下角的“”或图片外的黑色部分可关闭图片放大展示，返回首页界面。首页界面展示图放大后的效果图如图3.9所示。</p>
+                
+            
+                
+                    
+                        <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">
+                            <img src="http://www.mr118.net/img.php?05841039a45177232f60a2fa?pn=16&amp;x=0&amp;y=1308&amp;raww=706&amp;rawh=295&amp;o=png_6_0_0_148_813_638_266_892.979_1262.879&amp;type=pic&amp;aimh=100.28328611898016&amp;md5sum=1531e8d6b8f4194bf5b4bbfa8da93d85&amp;sign=7dfb9fe72a&amp;zoom=&amp;png=1343123-1445204&amp;jpg=0-0">
+                        </p>
+                    
+                    
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">图3.9 首页展示图放大效果图</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">页 第  13</p>
+                
+            
+            
+            
+
+            
+        
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">浙江经贸职业技术学院毕业论文(设计)</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">3.2.5简介界面的制作过程</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">此界面除了header与footer部分沿袭首页，中间的main_wrapper部分主要由两部分构成。首先是此界面的标题部分，使用简单文字书写，字体大小为h1，颜色为白色；然后是此界面的内容信息，内容信息利用div+css分为两个部分，两个部分的布局是一样的，都是由图片和解说文字两部分组成。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">图片使用类img_border{ background: #525252; padding: 4px; border: 1px solid #282828 }和类img_fl { float: left; margin: 3px 15px 5px 0 }进行设置，用a链接载入图片。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">点击简介界面中的home图片可返回首页界面，点击“Previous”可退回到首页界面，点击“Next”可进入中式美食界面。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">简介界面的效果图如图3.10所示。</p>
+                
+            
+                
+                    
+                        <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">
+                            <img src="http://www.mr118.net/img.php?05841039a45177232f60a2fa?pn=17&amp;x=0&amp;y=1275&amp;raww=1225&amp;rawh=627&amp;o=png_6_0_0_148_514_637_326_892.979_1262.879&amp;type=pic&amp;aimh=122.8408163265306&amp;md5sum=1531e8d6b8f4194bf5b4bbfa8da93d85&amp;sign=7dfb9fe72a&amp;zoom=&amp;png=1445205-1659081&amp;jpg=0-0">
+                        </p>
+                    
+                    
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">图3.10 简介界面</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">3.2.6中式美食界面的制作过程</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">中式美食界面沿用了简介界面的布局，标题文字大小为h1，颜色为白色。不同点是在中式美食界面中，内容信息中的左边部分去掉了图片，加入了超级链接。使用a链接介绍中式美食八大菜系。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">图片使用类img_border{ background: #525252; padding: 4px; border: 1px solid #282828 }和类img_nom { display: block; margin-bottom: 15px }进行设置，用a链接载入图片。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">点击中式美食界面中的home图片可返回首页界面，点击“Previous”可返回  页 第  14</p>
+                
+            
+            
+            
+
+            
+        
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">浙江经贸职业技术学院毕业论文(设计)</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">简介界面，点击“Next”可进入相册界面。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">中式美食界面的效果图如图3.11所示。</p>
+                
+            
+                
+                    
+                        <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">
+                            <img src="http://www.mr118.net/img.php?05841039a45177232f60a2fa?pn=18&amp;x=0&amp;y=1275&amp;raww=1200&amp;rawh=669&amp;o=png_6_0_0_159_203_609_340_892.979_1262.879&amp;type=pic&amp;aimh=133.8&amp;md5sum=1531e8d6b8f4194bf5b4bbfa8da93d85&amp;sign=7dfb9fe72a&amp;zoom=&amp;png=1659082-1874226&amp;jpg=0-0">
+                        </p>
+                    
+                    
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">图3.11中式美食界面</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">3.2.7相册界面的制作过程</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">此界面除了header与footer部分沿袭首页，中间的main_wrapper部分主要由两部分构成。首先是此界面的标题部分，使用简单文字书写，字体大小为h1，颜色为白色；第二部分利用div+css平均划分，各区块都使用a链接载入图片。图片使用类section {position:relative;float:left;width: 800px;height: 480px;margin-right: 20px;background: #3c3b3b;}进行设置。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">点击任何一张图片可对图片进行放大展示，查看图片全貌。把图片放大展示后，点击图片中的“PREV”或图片的左半部分可返回上一张图片，点击图片中的“NEXT</p>
+                
+            
+                
+                    
+                        <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">
+                            <img src="http://www.mr118.net/img.php?05841039a45177232f60a2fa?pn=18&amp;x=0&amp;y=1949&amp;raww=78&amp;rawh=28&amp;o=png_6_0_0_695_873_65_24_892.979_1262.879&amp;type=pic&amp;aimh=28&amp;md5sum=1531e8d6b8f4194bf5b4bbfa8da93d85&amp;sign=7dfb9fe72a&amp;zoom=&amp;png=1659082-1874226&amp;jpg=0-0">
+                        </p>
+                    
+                    
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">”或图片的右半部分可进入下一张图片，点击图片右下角的“</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">或图片外的黑色部分可关闭图片放大展示，返回相册界面。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">点击相册界面中的home图片可返回首页界面，点击“Previous”可返回到中式美食界面，点击“Next”可进入西式美食界面。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">相册界面的效果图如图3.12所示。 ”</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">页 第  15</p>
+                
+            
+            
+            
+
+            
+        </body></html>

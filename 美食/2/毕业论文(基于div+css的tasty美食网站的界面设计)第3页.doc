@@ -1,0 +1,184 @@
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<STYLE>
+BR.page { page-break-after: always }
+</STYLE>
+</head><body><center><h1>毕业论文(基于div+css的tasty美食网站的界面设计)第3页</h1></center>
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">浙江经贸职业技术学院毕业论文(设计)</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">表的网页文件内的head标签中使用link标签来引入。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">css规则由两个主要的部分构成：选择器，以及一条或多条声明。选择器通常是您需要改变样式的 HTML 元素。每条声明由一个属性和一个值组成。属性（property）是希望设置的样式属性（style attribute）。每个属性有一个值。属性和值被冒号分开。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">有三种方法可以在站点网页上使用样式表：</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">① 外部样式：将网页链接到外部样式表。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">② 内页样式：在网页上创建嵌入的样式表。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">③ 行内样式：应用内嵌样式到各个网页元素。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">2.2 div+css布局方式</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">对于网站div+css设计越来越受到业界的关注，从个人网站到企业及门户网站，页面设计人员已经将div+css作为了业界标准。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">如果用div+css来构建和美化网站，那么div就是整个网站的骨架，css样式就是网站的衣服。其中的内容，就是血肉。要入手设计一个网站。那么，就要从div的布局开始。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">本网站的骨架架构如下图2.1所示：</p>
+                
+            
+                
+                    
+                        <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">
+                            <img src="http://www.mr118.net/img.php?05841039a45177232f60a2fa?pn=7&amp;x=0&amp;y=1275&amp;raww=299&amp;rawh=259&amp;o=png_6_0_0_293_728_341_296_892.979_1262.879&amp;type=pic&amp;aimh=207.89297658862876&amp;md5sum=1531e8d6b8f4194bf5b4bbfa8da93d85&amp;sign=7dfb9fe72a&amp;zoom=&amp;png=361864-363712&amp;jpg=0-0">
+                        </p>
+                    
+                    
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">图2.1 设计中网站的骨架图</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">第  4  页</p>
+                
+            
+            
+            
+
+            
+        
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">浙江经贸职业技术学院毕业论文(设计)</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">2.3 JavaScript编写规则</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">JavaScript程序应独立保存在后缀名为.js的文件中。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">JavaScript代码不应该被包含在HTML文件中，除非这是段特定只属于此部分的代码。在HTML中的JavaScript代码会明显增加文件大小，而且也不能对其进行缓存和压缩。&lt;filename.js&gt;应尽量放到body的后面。这样可以减少因为载入script而造成其他页面内容载入也被延迟的问题。 缩进的单位为四个空格。 避免每行超过80个字符。在运算符号，最好是逗号后换行。下一行应该缩进8个空格。及时地更新注释也很重要。错误的注释会让程序更加难以阅读和理解。单行注释的符号是“//”， 多行注释以"/*"开始，以"*/"结束。所有的变量必须在使用前进行声明。将var语句放在函数的首部。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">2.4 网站配色方案</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">同色系方案是选择彼此相邻的几种颜色构成的配色方案。例如橙色、橙红色以及橙黄色就可以组成一个同色系方案。使用同色系配色方案可以给人非常协调的感觉，因此在网站设计中非常常用。典型的运用方法就是，用一种颜色作为页面背景，而另外一种在颜色环中与其相邻的颜色作为前景色。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">互补色方案则是互补色方案的配置。虽然略显繁琐，但是在现在的网站设计中非常流行，因为互补色适合于制作活泼时尚的效果，可以让网站魅力四射。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">另外，在photoshop中，要想构造一个三色方案也是非常容易。首先选中一种颜色，记下他的H（Hue）值，然后为这个值加120以此类推得到第三种颜色，构成一个三色方案。 三色方案中使用了三种彼此之间差别明显的颜色，因此页面显得相当不稳定，是一种可以带来比较另类的感觉的配色方案，将给予浏览者某种紧张感，这是因为这三种颜色均对比强烈。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">3 设计实践</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">3.1 设计立意</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">在中国传统文化教育中的阴阳五行哲学思想、儒家伦理道德观念、中医营养 第  5  页</p>
+                
+            
+            
+            
+
+            
+        
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">浙江经贸职业技术学院毕业论文(设计)</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">养生学说，还有文化艺术成就、饮食审美风尚、民族性格特征诸多因素的影响下，创造出彪炳史册的中国烹饪技艺，形成博大精深的中国饮食文化。越来越多的人喜欢使用互联网查询信息、交流互动。美食需要传承，也需要交流，美食网站是一个交流美食的平台。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">由于本人偏爱美食，时常关注美食信息，也因为所处的软件专业，平时对网站设计和HTML编写等方面有一定的熟悉度，借着此次制作毕业作品的机会，为美食设计一个版式新颖的网站，作为此论文的依据。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">本次网站的制作主题确定为简洁型。整个网站以图片为主，减少文字。网页主要以黑色为背景，灰色为辅，以达到清新整洁的页面效果。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">各页面之间布局力求工整合理，内容表达清晰。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">本美食网站的建设，主要针对美食爱好者及各界需要搜集美食信息的网络用户的需求进行设计开发的，因此，将打造一个界面美观友好，布局合理，栏目功能强大，信息详尽的网站。主要实现如下目标：</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">① 向外界宣传美食文化和菜肴传统做法；</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">② 信息尽可能齐全，满足不同用户需求。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">3.2 创作过程</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">利用Photoshop制作出网页效果图，再参考另外的一些美食网站，如中华美食网、美食天下等网站定下框架布局，考虑美食网站的logo设计。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">网上搜集素材并下载，图片素材分类取名统一保存在images文件夹下，下载搜集图片如图3.1所示。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">第  6  页</p>
+                
+            
+            
+            
+
+            
+        </body></html>

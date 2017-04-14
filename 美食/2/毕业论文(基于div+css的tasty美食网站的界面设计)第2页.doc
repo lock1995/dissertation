@@ -1,0 +1,169 @@
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<STYLE>
+BR.page { page-break-after: always }
+</STYLE>
+</head><body><center><h1>毕业论文(基于div+css的tasty美食网站的界面设计)第2页</h1></center>
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">浙江经贸职业技术学院毕业论文(设计)</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">引  言</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">随着信息时代的来临，IT行业已经成为现今最受关注的行业之一，它发展飞速且在全球范围内广泛、普及应用，人类的生活因此有了革命性的变化。同时，网络技术的发展也取得了卓越的成就，为网站开发、界面设计等奠定了坚实的基础。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">论文详细论述了关于一个美食网站的开发的设计过程。在技术上，采用了 Dreamweaver网站开发工具，以 HTML的超大功能结合JavaScript的客户端语言。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">本文实现了首页、简介、中式美食、西式美食、联系我们等功能，全面化个人网站的需求。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">论文组织如下：首先阐述了该网站的开发背景、意义，详细介绍了div+css理论知识；其次介绍了相关的开发工具及技术基础；接着对网站进行了需求分析，提出了具体的设计方案；然后展现了整个网站的具体实现，包括网页的设计和链接，各功能模块的实现；最后对该网站进行了严格的测试。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">1市场调研</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">1.1 网站开发背景和需求</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">“忽如一夜春风来，千树万树梨花开”，迅猛发展并日益成熟的互联网已经影响到我们生活的方方面面。人们真真切切的体会到了网络带给大家的便捷，互联网也以其独有的优势快速地渗透到越来越多的传统领域。俗话说“民以食为天”，在解决了温饱问题的现代，人们对食物的要求越来越高，已不仅仅局限于能吃饱就好，更多是希望能吃好，追求更多的美食。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">近年来，已出现不少网站对美食进行普及宣传，提供大量美食信息，介绍各菜系和小吃的饮食文化、饮食习俗、饮食习惯等，具有一定的可读性和趣味性。在网上推广美食，详述各种美食做法必定可以受到全国乃至全世界的美食爱好者的追捧。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">设计开发此美食网站最基本的意义，就是能够尽可能详细地展示、介绍各种 第  1  页</p>
+                
+            
+            
+            
+
+            
+        
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">浙江经贸职业技术学院毕业论文(设计)</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">美食信息，同时提供美食爱好者一个交流的平台，使得更多的美食传统做法得到推广，也可激发更多美食创意的产生。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">1.2 同类型网站的分析</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">美食网站越来越多，这说明了人们对美食的需求也越来越多。本人在设计之前对同类型网站进行了调研。首先对中华美食网进行分析，中华美食网首页如图</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">1.1所示。</p>
+                
+            
+                
+                    
+                        <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">
+                            <img src="http://www.mr118.net/img.php?05841039a45177232f60a2fa?pn=5&amp;x=0&amp;y=1275&amp;raww=1084&amp;rawh=749&amp;o=png_6_0_0_199_378_528_364_892.979_1262.879&amp;type=pic&amp;aimh=165.83025830258302&amp;md5sum=1531e8d6b8f4194bf5b4bbfa8da93d85&amp;sign=7dfb9fe72a&amp;zoom=&amp;png=102140-250139&amp;jpg=0-0">
+                        </p>
+                    
+                    
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">图1.1 中华美食网首页</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">中华美食网首页事个页面采用黄色为背景，导航图片简洁明了，色彩简单，网站多以文字加以图片展示，多采用a链接，内容包涵广，加了滚动图片，动感十足。头部的logo简洁大方，在中规中矩的美食网站中，中华美食网的首页布局紧凑且信息量大，图文并茂又不显杂乱。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">接着又分析了美食天下网站，该网站首页截图如图1.2所示。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">第  2  页</p>
+                
+            
+            
+            
+
+            
+        
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">浙江经贸职业技术学院毕业论文(设计)</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">图1.2美食天下网站首页</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">不同于中华美食网的内容繁多，美食天下网站事个首页内容较少，事个版面更显清晰整洁，背景采用裸粉色，看过去更为清爽。导航利用div+css在大导航下加了子导航，鼠标移上去时会显示不同的文字信息。不过与中华美食网设计相同的是，该网站也是以黄色为导航背景，内容种类多，版面紧凑。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">2 文献检索</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">本次设计是遵循web标准规范，在dreamweaver中利用div+css，并在文本文档中编写JavaScript代码的形式完成事个网站界面的设计。此外网站的色彩搭配方面也需要格外注意，因此分别对css样式编写的规则、div+css布局方式、JavaScript的编写规则和网页色彩搭配方案做了相关检索。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">2.1 css样式编写规则</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">css类型中，内联式是指直接在html标签后写样式代码。而嵌入式就是对本文件内所有的该类型的标签名运用这样的样式，但该样式的标签要放在head中。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">嵌入式样式表解决了同一个文件内使用同样样式的多个标签的代码重用，当接触到有很多个文件组成的网站，如果这些独立的网页文件要使用统一的风格，就需要使用外部样式表。建立后缀名.css的文本文件。在使用时，在引用该样式 第  3  页</p>
+                
+            
+                
+                    
+                        <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">
+                            <img src="http://www.mr118.net/img.php?05841039a45177232f60a2fa?pn=6&amp;x=0&amp;y=1275&amp;raww=1212&amp;rawh=747&amp;o=png_6_0_0_184_130_559_345_892.979_1262.879&amp;type=pic&amp;aimh=147.92079207920793&amp;md5sum=1531e8d6b8f4194bf5b4bbfa8da93d85&amp;sign=7dfb9fe72a&amp;zoom=&amp;png=250140-361863&amp;jpg=0-0">
+                        </p>
+                    
+                    
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+            
+            
+
+            
+        </body></html>

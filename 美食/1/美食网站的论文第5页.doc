@@ -1,0 +1,226 @@
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<STYLE>
+BR.page { page-break-after: always }
+</STYLE>
+</head><body><center><h1>美食网站的论文第5页</h1></center>
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">黄冈职业技术学院</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">3.3 网站首页设计</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">在此网站的首页我们可以看到许多美食的食谱，还有许多美丽的图片。给人很好的视觉感。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">3.3.1首页页头和导航的设计</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">本网站的首页由一张简单的动画图组成，给人一种舒服的感觉。页头上几个大字，让人对本网站的功能一目了然。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">网站的导航包含有八个选项分别是首、秀色可餐、吃出美丽、家常菜谱、休闲食品等。标题新颖，主题突出。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    
+                        <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">
+                            <img src="http://www.tzpengju.com/img.php?cb3aa84069eae009581bec3b?pn=13&amp;x=0&amp;y=7&amp;raww=733&amp;rawh=722&amp;o=png_6_0_0_171_115_622_687_892.979_1262.879&amp;type=pic&amp;aimh=236.39836289222373&amp;md5sum=ab0b25d1502ead5a66365495d16ef157&amp;sign=a99f432f32&amp;zoom=&amp;png=102714-113528&amp;jpg=0-0">
+                        </p>
+                    
+                    
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">13</p>
+                
+            
+            
+            
+
+            
+        
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">黄冈职业技术学院</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">效果图为：</p>
+                
+            
+                
+                    
+                        <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">
+                            <img src="http://www.tzpengju.com/img.php?cb3aa84069eae009581bec3b?pn=14&amp;x=0&amp;y=7&amp;raww=1002&amp;rawh=261&amp;o=png_6_0_0_189_156_619_232_892.979_1262.879&amp;type=pic&amp;aimh=62.51497005988024&amp;md5sum=ab0b25d1502ead5a66365495d16ef157&amp;sign=a99f432f32&amp;zoom=&amp;png=113529-227885&amp;jpg=0-0">
+                        </p>
+                    
+                    
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">页头及导航的设计代码为：</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;div id="top"&gt;&lt;/div&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;div id="daohang"&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;ul&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;li&gt;&lt;a href="index.html"&gt; 首页&lt;/a&gt;&lt;/li&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;li&gt;&lt;a href="xiusekecan.html"&gt;秀色可餐&lt;/a&gt;&lt;/li&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;li&gt;&lt;a href="chichumeili.html"&gt;吃出美丽&lt;/a&gt;&lt;/li&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;li&gt;&lt;a href="jiachangcaipu.html"&gt;家常菜谱&lt;/a&gt;&lt;/li&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;li&gt;&lt;a href="xiuxianshipin.html"&gt;休闲食品&lt;/a&gt;&lt;/li&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;li&gt; &lt;a href="woaiwojia.html"&gt;我爱我家 &lt;/a&gt;&lt;/li&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;li&gt;&lt;a href="tiandianpaidui.html"&gt;甜品派对&lt;/a&gt;&lt;/li&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;li&gt;&lt;a href="meishishufang.html"&gt;美食书坊&lt;/a&gt;&lt;/li&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;/ul&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;/div&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">3.3.2 网站正文的设计</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">网站正文由两大部分组成及上部和下部。其中上部又由三部分组成（左、中、右），下部由一组流动的图片组成。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">网站的上部分</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">网站的上部分由左、中、右三部分组成。其中左边用了的布局是在一个大的DIV盒子里面装着四个小的盒子，在小的盒子中分别放了图片和文字。此外中间和右边同样是在一个大的盒子中安放小的DIV，不同的是在在中间和右边的盒子中还安放了文字和图片。</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">14</p>
+                
+            
+            
+            
+
+            
+        
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">黄冈职业技术学院</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">其效果图展示为：</p>
+                
+            
+                
+                    
+                        <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">
+                            <img src="http://www.tzpengju.com/img.php?cb3aa84069eae009581bec3b?pn=15&amp;x=0&amp;y=7&amp;raww=1004&amp;rawh=521&amp;o=png_6_0_0_171_165_612_658_892.979_1262.879&amp;type=pic&amp;aimh=124.5418326693227&amp;md5sum=ab0b25d1502ead5a66365495d16ef157&amp;sign=a99f432f32&amp;zoom=&amp;png=227886-417098&amp;jpg=0-0">
+                        </p>
+                    
+                    
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;"> </p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">正文的上部分代码为：</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;div id="main"&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;div id="main-left"&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;div id="tuijie"&gt;&lt;span class="a"&gt;秀色可餐&amp;nbsp;&lt;/span&gt;&lt;/div&gt;           &lt;div</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">/&gt;豆瓣酱蒸翅根</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;/a&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">&lt;p&gt;1、鸡翅根洗净，泡在清水里十分钟之后倒掉水，鸡翅根沥干水分，用刀在正反两面各划两道；放入葱姜丝、料酒、一大勺豆瓣酱，搅拌均匀，腌制一个小时。&lt;/p&gt;</p>
+                
+            
+                
+                    <p class="MsoNormal" style="line-height: 150%; font-size:14pt; text-indent: 21pt; font-family: 瀹嬩綋;">15 id="jingdian"&gt;&lt;a href="jingpinjindian.html"&gt;&lt;img src="images/fengjing/2011101813460749.jpg" width="133" height="159" border="0"</p>
+                
+            
+            
+            
+
+            
+        </body></html>
